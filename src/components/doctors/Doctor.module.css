@@ -1,0 +1,9 @@
+.doctor {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5rem;
+    height: 100vh;
+
+}

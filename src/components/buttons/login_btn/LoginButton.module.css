@@ -1,0 +1,26 @@
+.login_btn{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+    border: 3px solid #89b6c7;
+    border-radius: 3px;
+    background-color: #89b6c7;
+    padding: 0.3rem;
+    cursor: pointer;
+    width: 20%;
+    height: 70%;
+}
+
+.login_btn:hover{
+    color: #f8eaea;
+}
+
+
+@media screen and (max-width: 600px) {
+    .login_btn{
+        color: #ffffff;
+        font-size: 11px;
+    }
+
+
+}
